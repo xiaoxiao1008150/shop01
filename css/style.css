@@ -1,0 +1,152 @@
+.container{
+	width:1000px;
+	margin:0 auto;
+}
+.topBar{
+	height:31px;
+	line-height:31px;
+	font-size:13px;
+	color:#666666;
+	background: #F7F7F7;
+}
+.sc{
+	margin-left:25px;
+	display:inline-block;
+	background: url(../img/sub-01.gif)left 5px no-repeat;
+	text-indent:12px;
+}
+.topBar ul{
+	float:right;
+}
+.topBar ul li{
+	display: inline-block;
+	margin-right: 5px;
+}
+.navBar{
+	background: #1D7AD9;
+	height:85px;
+	color:#fff;
+}
+.navBar .logo{
+	height:85px;
+	line-height: 85px;
+	font-size:20px;
+}
+.form{
+	margin-left:160px;
+	width:430px;
+	margin-top:23px;
+}
+.form .search_text{
+	height:35px;
+	width:355px;
+	padding-left:5px;
+}
+.form .search_button{
+	height:35px;
+	width:70px;
+}
+.link{
+	width:145px;
+	height:35px;
+	background: orange;
+	margin-top:23px;
+	margin-right:35px;
+	color:#fff;
+}
+.link .car{
+	width:89px;
+	height:100%;
+	border-right:1px solid #ccc;
+	line-height: 35px;
+	text-align: center;
+}
+.link .mail{
+	width:54px;
+	height:100%;
+	border-left: 1px solid #ccc;
+	line-height: 35px;
+	text-align: center;
+}
+.linkBar{
+	height:30px;
+	background:#1369C0;
+	color:#fff;
+}
+.linkBar a{
+	color:#fff;
+	font-size:14px;
+}
+.head{
+	height:30px;
+	line-height:30px;
+	width:190px;
+	text-indent:10px;
+	font-size:16px;
+	font-weight:100;
+}
+.active{
+	background: rgba(255,255,255,0.1);
+}
+.linkBar ul li{
+  display: inline-block;
+  width:80px;
+  margin-right:25px;
+  height:30px;
+  text-align: center;
+  line-height: 30px;
+  transition:background 0.5s;
+}
+.linkBar ul li:hover{
+  background: rgba(255,255,255,0.1);
+}
+.pro-list{
+	position: relative;
+}
+
+.pro-right{
+	width:809px;
+	height:329px;
+	position: absolute;
+	top:0;
+	left:190px;
+	border-bottom:1px solid #ccc;
+	border-right:1px solid #ccc;
+}
+.pro-right img{
+	width:810px;
+	height:329px;
+}
+
+.footer{
+	height:200px;
+	background: #D4D4D4;
+	position: absolute;
+	top:1500px;
+	width:100%;
+}
+.footer_list{
+	margin:50px auto;
+	text-align: center;
+}
+.footer_list p{
+	margin-bottom: 20px;
+}
+.footer ul li{
+	display:inline-block;
+	margin:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

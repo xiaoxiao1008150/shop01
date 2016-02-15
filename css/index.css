@@ -1,0 +1,75 @@
+
+.pro-left{
+	width:190px;
+	position:absolute;
+	top:0;
+	left:0;
+	background:#4593FD;
+}
+.pro-left p{
+	line-height: 25px;
+	font-size:12px;
+}
+.pro-left ul li{
+	padding:10px 0 10px 10px;
+	height:45px;
+	border-bottom:1px solid #ddd;
+}
+.phone-list{
+	height:400px;
+	position: absolute;
+	top:470px;
+	margin-top:50px;
+}
+.phone-list .phone{
+	width:200px;
+	height:400px;
+	text-align: center;
+}
+.phone_1 img{
+   width:100%;
+   height:100%;
+}
+.phone-list .top{
+	height:280px;
+    border-top:1px solid #ccc;
+	border-right:1px solid #ccc;
+}
+.top h3,
+.top p{
+	line-height:20px;
+}
+.top h3{
+	font-size:15px;
+	font-weight:normal;
+}
+.top p{
+	color:orange;
+}
+.phone-list .bottom{
+	height:75px;
+	border-top:1px solid #ccc;
+	border-right:1px solid #ccc;
+	padding: 20px 15px;
+	border-bottom:5px solid orange;
+}
+.phone-list .top img{
+	display: block;
+	margin:50px auto 20px;
+}
+.phone-list .bottom img{
+	float:left;
+	display: block;
+}
+.bottom h3{
+	font-size:12px;
+	margin-bottom:10px;
+}
+.bottom_right{
+	width:50%;
+}
+#noddle-list{
+	position: absolute;
+	top:870px;
+	margin-top:150px;
+}

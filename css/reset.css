@@ -1,0 +1,28 @@
+li{
+	list-style: none
+}
+img{
+	border:none;
+}
+input,select,textarea{
+	outline:none;
+	border:none;
+}
+a{
+	text-decoration: none;
+}
+.clearfix:after{
+	content:"";
+	display:block;
+	clear:both;
+}
+*{
+	margin:0;
+	padding:0;
+}
+.fl{
+	float:left;
+}
+.fr{
+	float:right;
+}
